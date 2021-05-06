@@ -6,10 +6,10 @@ config = {
 	'server': 'irc.chat.twitch.tv',
 	'port': 6667,
 	'username': 'FenBot_',
-	'oauth_password': 'oauth:19xze4v90vrkpukyn9bqcj9jbetd3m', # get this from http://twitchapps.com/tmi/
+	'oauth_password': 'oauth:#####', # get this from http://twitchapps.com/tmi/
 	
 	# channel to join
-	'channels': ['#fenrisfullstop'],
+	'channels': ['#####'],
 
 	# if set to true will display any data received
 	'debug': False,
